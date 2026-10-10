@@ -1,9 +1,12 @@
-# Echo — Frameless Desktop UI (Python + PySide6)
+# Echo
+
 
 A modular, frameless desktop application shell built with Python and PySide6,
 matching the provided reference design: a dark rounded navigation sidebar,
 macOS-style window controls, and a rounded main content card with a
 layered "mountain" backdrop and ECHO branding on the Home tab.
+
+<img width="1125" height="687" alt="Screenshot 2026-10-10 084738" src="https://github.com/user-attachments/assets/b04005ee-2e29-4556-ad54-2100ae7f8d21" />
 
 ## Project structure
 
