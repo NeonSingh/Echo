@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Youtube",
+        "description": "For my daily account info",
+        "tags": [
+            "video",
+            "doomscroll"
+        ],
+        "metadata_loc": "abd.raw"
+    },
+    {
+        "name": "Attendance",
+        "description": "Why to check attendance?",
+        "tags": [
+            "attendance",
+            "amizone"
+        ],
+        "metadata_loc": "assets/databox/Attendance.jsonl"
+    }
+]

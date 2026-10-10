@@ -1,0 +1,22 @@
+{"event": "session_start", "task_name": "session"}
+{"event": "key_combination", "keys": ["[CMD]", "1"]}
+{"event": "active_window", "title": "New Tab - Brave"}
+{"event": "key_combination", "keys": ["[CTRL]", "t"]}
+{"event": "key_strokes", "keys": ["s", "[ENTER]"]}
+{"event": "active_window", "title": "Amizone - Brave"}
+{"event": "wait", "duration": 4.531}
+{"event": "click", "button": "LEFT", "interactive": false, "ui_element": null, "location": {"x": 1213, "y": 668}}
+{"event": "click", "button": "LEFT", "interactive": true, "ui_element": {"control_type": "ListItem", "name": "Password for 12588262", "automation_id": "", "class_name": "PopupRowContentView"}, "location": {"x": 1233, "y": 739}}
+{"event": "click", "button": "LEFT", "interactive": true, "ui_element": {"control_type": "Button", "name": "LOGIN", "automation_id": "", "class_name": "login100-form-btn"}, "location": {"x": 1179, "y": 809}}
+{"event": "click", "button": "MIDDLE", "interactive": true, "ui_element": {"control_type": "TabItem", "name": "New Tab", "automation_id": "view_20", "class_name": "BraveTab"}, "location": {"x": 93, "y": 0}}
+{"event": "click", "button": "LEFT", "interactive": true, "ui_element": {"control_type": "Button", "name": "Cancel", "automation_id": "", "class_name": "btn btn-default"}, "location": {"x": 993, "y": 543}}
+{"event": "scroll", "direction": "DOWN", "amount": 1, "delta": -120, "location": {"x": 1014, "y": 660}}
+{"event": "scroll", "direction": "DOWN", "amount": 1, "delta": -120, "location": {"x": 1014, "y": 660}}
+{"event": "scroll", "direction": "DOWN", "amount": 1, "delta": -120, "location": {"x": 1014, "y": 660}}
+{"event": "scroll", "direction": "DOWN", "amount": 1, "delta": -120, "location": {"x": 1014, "y": 660}}
+{"event": "scroll", "direction": "DOWN", "amount": 1, "delta": -120, "location": {"x": 1014, "y": 660}}
+{"event": "scroll", "direction": "DOWN", "amount": 1, "delta": -120, "location": {"x": 958, "y": 413}}
+{"event": "scroll", "direction": "DOWN", "amount": 1, "delta": -120, "location": {"x": 958, "y": 410}}
+{"event": "click", "button": "LEFT", "interactive": false, "ui_element": null, "location": {"x": 427, "y": 439}}
+{"event": "click", "button": "LEFT", "interactive": false, "ui_element": null, "location": {"x": 943, "y": 597}}
+{"event": "session_end"}
